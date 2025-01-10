@@ -1,0 +1,27 @@
+.article-view {
+  max-width: 800px;
+  margin: 20px auto;
+  padding: 20px;
+  background: white;
+  border-radius: 8px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+header {
+  margin-bottom: 20px;
+}
+
+header h1 {
+  font-size: 2rem;
+  margin-bottom: 10px;
+}
+
+header p {
+  color: #666;
+}
+
+article {
+  line-height: 1.6;
+  font-size: 1rem;
+  color: #333;
+}
