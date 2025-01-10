@@ -1,9 +1,9 @@
-#Article Hub - Documentation
-#Overview
+Article Hub - Documentation
+Overview
 Article Hub is a content management platform designed to simplify the creation, management, and sharing of articles. This project emphasizes a clean interface, smooth user experience, and maintainable codebase while ensuring robust documentation and efficient content workflows.
 
-#Repository Structure
-#Key Components
+Repository Structure
+Key Components
 README
 
 A comprehensive guide with setup instructions, key features, and usage details.
@@ -16,10 +16,6 @@ Follows a structured approach with clear and concise commit messages for easier 
 Documentation
 
 Includes detailed explanations of components, features, and limitations.
-#Features
-#Core Features
-#Content Management
-Streamlined workflows for creating, editing, and managing articles.
 
 Organized Components
 Modular React components with clear responsibilities and roles.
